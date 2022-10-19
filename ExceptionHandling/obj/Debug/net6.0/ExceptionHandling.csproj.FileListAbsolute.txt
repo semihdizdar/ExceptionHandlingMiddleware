@@ -1,0 +1,12 @@
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\semih.dizdar\source\repos\SD.ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll
